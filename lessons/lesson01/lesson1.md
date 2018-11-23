@@ -1,4 +1,4 @@
-# Introduction to Python
+# Lesson 1 - 22/11/2018
 
 ## Hello world
 
